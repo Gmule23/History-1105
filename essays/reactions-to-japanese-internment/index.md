@@ -7,7 +7,7 @@ thumbnail: images/Raton_1882.jpg
 summary: One sentence summary of your project 
 ---
 
-# New Mexicans reactions to Japanese Internemnt
+# NM's reactions to Japanese Internemnt
 
 I will be covering the general reaction from residents of New Mexico to Japanese internment. While Internment in the U.S. wasn't only focused on Japanese Americans New Mexico was a hot spot for Japanese American Internees. I will show how the reaction of the New Mexican public varied across the state but how the reaction was largely in line with that of the rest of the Nation. I'll be touching on the historic reaction to immigration amongst New Mexicans to draw a through line to the reactions surrounding internment of Japanese Americans. But I mostly want to explore the attitudes and language surrounding the Internment of Japanese Americans.  
 
