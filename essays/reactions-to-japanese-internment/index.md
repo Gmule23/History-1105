@@ -7,10 +7,9 @@ thumbnail: images/Raton_1882.jpg
 summary: One sentence summary of your project 
 ---
 
-# Title of Project
+# New Mexicans reactions to Japanese Internemnt
 
-Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
-100-150 words
+I will be covering the general reaction from residents of New Mexico to Japanese internment. While Internment in the U.S. wasn't only focused on Japanese Americans New Mexico was a hot spot for Japanese American Internees. I will show how the reaction of the New Mexican public varied across the state but how the reaction was largely in line with that of the rest of the Nation. I'll be touching on the historic reaction to immigration amongst New Mexicans to draw a through line to the reactions surrounding internment of Japanese Americans. But I mostly want to explore the attitudes and language surrounding the Internment of Japanese Americans.  
 
 ## Subheader 1
 
