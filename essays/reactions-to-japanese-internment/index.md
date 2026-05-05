@@ -2,8 +2,8 @@
 title: "NM Reaction To Japanese Internment"
 author: Gabriel Muehleisen
 layout: scrollstory
-header-image: images/Raton_1882.jpg
-thumbnail: images/Raton_1882.jpg
+header-image: images/men-in-camp.jpg
+thumbnail: images/men-in-camp.jpg
 summary: One sentence summary of your project 
 ---
 
