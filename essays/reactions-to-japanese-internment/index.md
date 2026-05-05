@@ -22,7 +22,7 @@ I will be covering the general reaction from residents of New Mexico to Japanese
   image-path="images/campsites-map.jpg"
   image-position="right"
   image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
+  caption="This is a map of all the internment camps throughout the U.S.[source: Cosy Alien Files Coesortium, Here, in America? immigrants as The Canny Duning Wh and Todty, 2005]"
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
