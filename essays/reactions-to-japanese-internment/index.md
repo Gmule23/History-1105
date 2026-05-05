@@ -19,7 +19,7 @@ I will be covering the general reaction from residents of New Mexico to Japanese
 
 
 {% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
+  image-path="images/campsites-map.jpg"
   image-position="right"
   image-width="50%"
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
