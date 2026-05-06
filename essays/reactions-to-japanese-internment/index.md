@@ -36,14 +36,14 @@ The interesting part about the news coverage surrounding bringing Japanese priso
 The discrimination against Japanese was nothing new, but the mass imprisonment was a much larger and far harsher case of state sanctioned discrimination at least against Japanese Americans. A massive problem with the entire operation of internment was the lack of direction given for who to intern. Executive order 9066 was passed on the basis of racism, that any of the Japanese residing on the west coast citizen or not were potential traitors. This indirectness of classifying any Japanese person residing in the country as a potential danger also impacted other Asian Americans residing in the country.  
 
 {% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
+  
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/men-in-camp.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption="This is a group of men who were held at the Sante Fe Internment camp []"
   text=Removal_Chinese_text 
 %}
 
