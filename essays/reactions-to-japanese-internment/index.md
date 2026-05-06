@@ -11,7 +11,7 @@ summary: One sentence summary of your project
 
 I will be covering the general reaction from residents of New Mexico to Japanese internment. While Internment in the U.S. wasn't only focused on Japanese Americans New Mexico was a hot spot for Japanese American Internees. I will show how the reaction of the New Mexican public varied across the state but how the reaction was largely in line with that of the rest of the Nation. I'll be touching on the historic reaction to immigration amongst New Mexicans to draw a through line to the reactions surrounding internment of Japanese Americans. But I mostly want to explore the attitudes and language surrounding the Internment of Japanese Americans.  
 
-## Subheader 1
+## Why Newsworthy?
 
 This event and the war surrounding it was a huge event globally and locally. It was an intensely tumultuous time where public fear of “enemy aliens’ was surging. These enemy aliens included any immigrants or citizens of German, Italian, and of course Japanese descent. New Mexico and the greater U.S. already had a past of pushing back against Asian immigration. So, a sudden proposal to bring thousands of Japanese people to the state was of deep importance to the populous as well as very unpopular.[^youchoose] 
 
