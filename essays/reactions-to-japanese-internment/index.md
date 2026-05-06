@@ -15,7 +15,7 @@ I will be covering the general reaction from residents of New Mexico to Japanese
 
 This event and the war surrounding it was a huge event globally and locally. It was an intensely tumultuous time where public fear of “enemy aliens’ was surging. These enemy aliens included any immigrants or citizens of German, Italian, and of course Japanese descent. New Mexico and the greater U.S. already had a past of pushing back against Asian immigration. So, a sudden proposal to bring thousands of Japanese people to the state was of deep importance to the populous as well as very unpopular.[^youchoose] 
 
-[^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
+[^youchoose]: Robin Dale Jacobson, Daniel Tichenor and T. Elizabeth Durden, *The Southwest's Uneven Welcome: Immigrant Inclusion and Exclusion in Arizona and New Mexico* (The University of Illinois Press:2018), 18-27.
 
 
 {% include images/figure-wrap.html
