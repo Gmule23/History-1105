@@ -40,7 +40,7 @@ The coding for this section positions this text in relation to the image. *The L
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/Concerns_Raton.jpg"
+  image-path="images/campsites-map.jpg"
   image-position="left"
   image-width="70%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
@@ -52,7 +52,7 @@ The coding for this section positions this text in relation to the image. *The L
 Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/men-in-camp.jpg"
   image-position="center"
   image-width="70%"
   caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
