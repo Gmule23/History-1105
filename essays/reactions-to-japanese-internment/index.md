@@ -33,7 +33,7 @@ The interesting part about the news coverage surrounding bringing Japanese priso
 
 ## Subheader 2
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+The discrimination against Japanese was nothing new, but the mass imprisonment was a much larger and far harsher case of state sanctioned discrimination at least against Japanese Americans. A massive problem with the entire operation of internment was the lack of direction given for who to intern. Executive order 9066 was passed on the basis of racism, that any of the Japanese residing on the west coast citizen or not were potential traitors. This indirectness of classifying any Japanese person residing in the country as a potential danger also impacted other Asian Americans residing in the country.  
 
 {% capture Removal_Chinese_text %}
 The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
