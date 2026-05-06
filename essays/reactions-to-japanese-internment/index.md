@@ -19,13 +19,13 @@ I will be covering the general reaction from residents of New Mexico to Japanese
 
 
 {% include images/figure-wrap.html
-  image-path="images/campsites-map.jpg"
+  image-path="images/yazzi-quote.jpg"
   image-position="right"
   image-width="50%"
-  caption="This is a map of all the internment camps throughout the U.S.[source: Cosy Alien Files Coesortium, Here, in America? immigrants as The Canny Duning Wh and Todty, 2005]"
+  caption="This is a quote from a Navajo man reffering to the arrival of Japanese in the state [Amarillo daily news March 7th,1942]"
 %}
 
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
+{% include typography/pullquote.html text="\"Im afraid some of these old Navajo boys out on the reservation wouldnt understand the difference between a Jap farmer and a jap souldier, and there would be some fresh scalps in the hogans.\""%}
 
 You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
 
