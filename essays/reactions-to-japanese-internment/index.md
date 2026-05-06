@@ -31,7 +31,7 @@ The interesting part about the news coverage surrounding bringing Japanese priso
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
-## Subheader 2
+## Affect on Japanese Americans
 
 The discrimination against Japanese was nothing new, but the mass imprisonment was a much larger and far harsher case of state sanctioned discrimination at least against Japanese Americans. A massive problem with the entire operation of internment was the lack of direction given for who to intern. Executive order 9066 was passed on the basis of racism, that any of the Japanese residing on the west coast citizen or not were potential traitors. This indirectness of classifying any Japanese person residing in the country as a potential danger also impacted other Asian Americans residing in the country.  
 
@@ -47,7 +47,7 @@ The coding for this section positions this text in relation to the image. *The L
   text=Removal_Chinese_text 
 %}
 
-## Subheader 3 
+## Affect on New Mexico History
 
 The reaction of the residents in New Mexico does have a strange impact on the history of the area. That effect to me is the silence for decades and even till this day. At least where I went to school, it was never mentioned in any of our history classes. To me this indifference comes from the initial reactions to the event being anger at the idea of Japanese being brought here unless they were in detention centers. Though some attempts have been made at calling attention to the atrocities committed, like the historical memorial at the site of the Sante Fe internment camp. The prisoners at these camps like Lordsburg were forced to work on public infrastructure and brought in essentially a new slave class for the time they were there.  
 
@@ -62,8 +62,8 @@ The reaction of the residents in New Mexico does have a strange impact on the hi
 
 
 
-## Concluding Subheader 4:
+## Conclusion
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+Overall, the reaction was negative, residents were not happy with the prospect of Japanese people being brought into New Mexico. The only way they would accept people being brought into the state was if they went into the incarceration camps. This ended up leaving the only option being the camps for a long-term holding of Japanese citizens in New Mexico. I just wish we could see better early education about this topic especially within this state.  
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
