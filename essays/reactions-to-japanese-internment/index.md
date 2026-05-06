@@ -13,7 +13,7 @@ I will be covering the general reaction from residents of New Mexico to Japanese
 
 ## Subheader 1
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+This event and the war surrounding it was a huge event globally and locally. It was an intensely tumultuous time where public fear of “enemy aliens’ was surging. These enemy aliens included any immigrants or citizens of German, Italian, and of course Japanese descent. New Mexico and the greater U.S. already had a past of pushing back against Asian immigration. So, a sudden proposal to bring thousands of Japanese people to the state was of deep importance to the populous as well as very unpopular.[^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
