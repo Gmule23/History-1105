@@ -49,13 +49,13 @@ The coding for this section positions this text in relation to the image. *The L
 
 ## Subheader 3 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+The reaction of the residents in New Mexico does have a strange impact on the history of the area. That effect to me is the silence for decades and even till this day. At least where I went to school, it was never mentioned in any of our history classes. To me this indifference comes from the initial reactions to the event being anger at the idea of Japanese being brought here unless they were in detention centers. Though some attempts have been made at calling attention to the atrocities committed, like the historical memorial at the site of the Sante Fe internment camp. The prisoners at these camps like Lordsburg were forced to work on public infrastructure and brought in essentially a new slave class for the time they were there.  
 
 {% include images/figure-wrap.html
   image-path="images/campsites-map.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="This shows all the camps the U.S had for those deemed enemy aliens. [source: Cosy Alien Files Coesortium, Here, in America? immigrants as The Canny Duning Wh and Todty, (2005)]"
   text=Chinese_leave_Raton_text 
 %}
 
