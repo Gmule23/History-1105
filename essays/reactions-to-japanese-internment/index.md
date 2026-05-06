@@ -19,7 +19,7 @@ I will be covering the general reaction from residents of New Mexico to Japanese
 
 
 {% include images/figure-wrap.html
-  image-path="images/yazzi-quote.png"
+  image-path="images/yazzi-quote.jpg"
   image-position="right"
   image-width="50%"
   caption="This is a quote from a Navajo man reffering to the arrival of Japanese in the state [Amarillo daily news March 7th,1942]"
