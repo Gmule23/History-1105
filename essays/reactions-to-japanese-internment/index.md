@@ -61,9 +61,6 @@ The reaction of the residents in New Mexico does have a strange impact on the hi
 
 
 
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
-
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
 ## Concluding Subheader 4:
 
