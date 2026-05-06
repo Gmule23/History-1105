@@ -27,7 +27,7 @@ This event and the war surrounding it was a huge event globally and locally. It 
 
 {% include typography/pullquote.html text="\"Im afraid some of these old Navajo boys out on the reservation wouldnt understand the difference between a Jap farmer and a jap souldier, and there would be some fresh scalps in the hogans.\""%}
 
-You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
+The interesting part about the news coverage surrounding bringing Japanese prisoners into New Mexico was the portrayal of it as an act of “Colonization”. Using the framing of calling it a colonization multiple newspapers stated the only way that they would be accepted is if they were kept in detention camps. And the quote from Yazzi Begany shows the negative attitudes from even Native Americans and shows the widespread discriminatory view towards Japanese people and the difficulty of people being able to tell Japanese people apart from one another.[^youchoose2] 
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
