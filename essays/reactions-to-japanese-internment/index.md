@@ -22,14 +22,14 @@ This event and the war surrounding it was a huge event globally and locally. It 
   image-path="images/yazzi-quote.jpg"
   image-position="right"
   image-width="50%"
-  caption="This is a quote from a Navajo man reffering to the arrival of Japanese in the state [Amarillo daily news March 7th,1942]"
+  caption="This is a segment from a newspaper where they interviewed a Navajo man Yazzi Begany [Amarillo daily news March 7th,1942]"
 %}
 
 {% include typography/pullquote.html text="\"Im afraid some of these old Navajo boys out on the reservation wouldnt understand the difference between a Jap farmer and a jap souldier, and there would be some fresh scalps in the hogans.\""%}
 
 The interesting part about the news coverage surrounding bringing Japanese prisoners into New Mexico was the portrayal of it as an act of “Colonization”. Using the framing of calling it a colonization multiple newspapers stated the only way that they would be accepted is if they were kept in detention camps. And the quote from Yazzi Begany shows the negative attitudes from even Native Americans and shows the widespread discriminatory view towards Japanese people and the difficulty of people being able to tell Japanese people apart from one another.[^youchoose2] 
 
-[^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
+[^youchoose2]: Unkown author, *Navajo Gives Idea of Japs* (The Amrillo daily:1942), page 5.
 
 ## Affect on Japanese Americans
 
@@ -43,7 +43,8 @@ The discrimination against Japanese was nothing new, but the mass imprisonment w
   image-path="images/men-in-camp.jpg"
   image-position="left"
   image-width="70%"
-  caption="This is a group of men who were held at the Sante Fe Internment camp []"
+  caption="This is a group of men who were held at the Sante Fe Internment camp [Courtesy of Roy Takai Collection, Densho. Sante Fe detention center broadcast section. 1944.
+Photograph. Roy Takai Collection. Database.]"
   text=Removal_Chinese_text 
 %}
 
@@ -66,4 +67,4 @@ The reaction of the residents in New Mexico does have a strange impact on the hi
 
 Overall, the reaction was negative, residents were not happy with the prospect of Japanese people being brought into New Mexico. The only way they would accept people being brought into the state was if they went into the incarceration camps. This ended up leaving the only option being the camps for a long-term holding of Japanese citizens in New Mexico. I just wish we could see better early education about this topic especially within this state.  
 
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
+**Further information:** Multiple other sources contributed to my research in this piece mostly news papres from the era like The Gallup Indioendant and The Sante Fe New Mexican. Andrew B Russell The Nikkei in New Mexico (2008) was an a really good source that gave me some numbers for reference of Japanese people within New Mexico 
